@@ -1,0 +1,12 @@
+.gitignore
+
+.vscode
+
+.venv
+
+build
+dist/*
+
+*.egg-info
+
+Makefile
